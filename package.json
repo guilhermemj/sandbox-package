@@ -1,0 +1,20 @@
+{
+  "name": "sandbox-package",
+  "version": "1.0.0",
+  "description": "Useless project created to test CI/CD flows and tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermemj/sandbox-package.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermemj/sandbox-package/issues"
+  },
+  "homepage": "https://github.com/guilhermemj/sandbox-package#readme"
+}
